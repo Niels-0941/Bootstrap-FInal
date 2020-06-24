@@ -3,7 +3,7 @@
 	padding: 0;
 }
 
-div.body {
+body {
 	background-image: url("../images/bs_pic_musclepower.jpg"); 
 	background-size: cover;
 	background-repeat: no-repeat;
