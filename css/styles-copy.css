@@ -3,7 +3,7 @@
 	padding: 0;
 }
 
-.signup{
+body {
 
 	background-image: url("../images/bs_pic_musclepower.jpg"); 
 	background-size: cover;
@@ -27,7 +27,6 @@ div.container{
 }
 
 
-.signup1
 p {
 	font-size: 20px;
 	text-align: left;
@@ -36,7 +35,6 @@ p {
 }
 
 
-.signup2
 h1 {
 	font-size: 60px;
 	text-align: center;
