@@ -10,13 +10,7 @@ body {
 font-family: 'Roboto', sans-serif;
 	color: #F000000;
 }
-body {
-	background-image: url("../images/bs_pic_musclepower.jpg"); 
-	background-size: cover;
-	background-repeat: no-repeat;
-font-family: 'Roboto', sans-serif;
-	color: #F000000;
-}
+
 }
 div.container{
 	color: white;
@@ -91,4 +85,7 @@ footer {
 	background-color:  white;
 	position: fixed;
 }
+
+
+
 
